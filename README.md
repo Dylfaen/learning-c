@@ -1,2 +1,2 @@
 # learning-c
-Un repo pour apprendre à code en C à la dure !
+Un repo pour apprendre à coder en C à la dure !
